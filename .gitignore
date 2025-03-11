@@ -1,0 +1,25 @@
+venv/
+.venv/
+.idea/
+.env_example
+env.sh
+.env
+
+*.pc
+*.pyc
+*.pyo
+__pycache__
+.git
+.deps
+.libs
+/_build/
+.history
+.vscode
+
+staticfiles
+*.sqlite3
+*.log
+Dockerfile.test.develop
+
+# Media files
+media/
